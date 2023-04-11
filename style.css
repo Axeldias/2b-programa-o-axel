@@ -1,1 +1,36 @@
+:root{
+    --preto:#040F0F;
+    --azul:#0059FF;
+    --vermelho:#F50000;
+    --azul-marinho:#00EBF3;
+    --verde :#00FF44;
+
+}
+.cabecalho{
+background-color: var(--preto-azul);
+display: flex;
+justify-content: space-between;
+
+}
+
+.menu-iten{
+    display: inline-block;
+    padding: 5px;
+    color: var(--azul-vermelho)
+
+}
+.logo{
+    width: 10%;
+    margin: 10px;
+}
+
+
+
+
+
+
+
+
+
+
 
